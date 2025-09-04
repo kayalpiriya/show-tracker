@@ -1,0 +1,174 @@
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  margin: 5px;
+  background:  #F0F2F5;
+
+}
+nav{
+  background:  #fff;
+  padding: 10px 20px;
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+.webName{
+  font-weight: bold;
+  font-size: 25px;
+  text-decoration: none;
+  background:yellow;
+  padding: 10px;
+  margin-left: 0%;
+ 
+}
+.webName span{
+    color: orange;
+}
+nav a{
+  text-decoration: none;
+  color: #555050;
+  margin-left: 15px;
+}
+.alink:hover {
+  background-color: rgb(170, 170, 173);
+}
+
+
+.showw{
+  display: flex;
+ 
+  
+  background-color:#e3e8f1;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.img{
+  background-color: #b7b9bd;
+  margin-left: 300px;
+  margin-right: 300px;
+  object-fit: cover; 
+  border-radius: 10px;
+}
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.grid-container > div {
+  padding: 20px;
+  text-align:center;
+}
+.container{
+  text-align: center;
+}
+img{
+  border-radius: 40px;
+}
+/* .grid-container{
+  display: flex;
+  gap: 20px;
+} */
+
+
+.search{
+  margin-left: 800px;
+  border: none;
+  background-color:#e3e8f1;
+}
+#login{
+  margin-top: 50px;
+ 
+}
+#signup{
+  margin-top: 50px;
+}
+#card{
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+  margin-top: 50px;
+  margin-bottom: 550px;
+}
+#game{
+  padding-top: 0;
+  margin-top: 0;
+}
+#carddd{
+  margin-top: 25px;
+  width: 60%;
+  padding-bottom: 50px;
+  padding-right: 5px;
+}
+#gamee{
+  margin-top: 20px;
+}
+#icon{
+  display: flex;
+}
+strong{
+  padding-left: 3px;
+}
+.line{
+ color: black;
+ margin-top: 30px;
+ background-color:rgb(140, 196, 218);
+ width: 925px;
+ padding: 10px;
+ padding-left: 30px;
+ border-color: rgb(182, 106, 71);
+ color: brown;
+}
+#img{
+ width: 900px;
+ height: 160%;
+ margin-top: 10px;
+}
+.btn{
+ background-color: blue;
+ padding: 10px;
+ margin-left: 15px;
+ width: 225px;
+ color: white;
+}
+p{
+ margin-top: 5px;
+}
+h1{
+ font-size: 30px;
+ margin-right: 10px;
+ margin-top: 15px;
+}
+h2{
+ font-size: 30px;
+ font-weight: bold;
+ margin-top: 15px;
+ margin-right: 25px;
+ color: red;
+}
+.details{
+ margin-top: 30px;
+ background-color: white;
+ margin-right: 610px;
+}
+.lp{
+ padding-left: 20px;
+ background-color:blanchedalmond;
+}
+#borderr{
+ border-right-style: dashed;
+ border-color: black;
+}
+.time{
+ margin-bottom: 10px;
+ padding-bottom: 10px;
+}
+.heading{
+ padding-bottom: 5px;
+}
+.lp{
+ font-size: 15px;
+}
